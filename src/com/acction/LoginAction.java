@@ -13,5 +13,11 @@ public class LoginAction extends ActionSupport{
 		
 		return "success";
 	}
+	
+	public String second(){
+		
+		
+		return "2";
+	}
 
 }
